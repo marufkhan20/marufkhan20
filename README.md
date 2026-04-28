@@ -40,7 +40,7 @@ I am a results-driven **Full-Stack Developer** with over **5 years of experience
 
 ### 📫 Connect with Me
 - **Portfolio:** [maruf-dev.vercel.app](https://maruf-dev.vercel.app)
-- **LinkedIn:** [linkedin.com/in/rashedul-islam-maruf](https://linkedin.com/in/your-linkedin-username) *(Update this link!)*
+- **LinkedIn:** [linkedin.com/in/rashedul-islam-maruf](https://www.linkedin.com/in/rashedul-islam-maruf)
 - **Facebook:** [freelancer.maruf.77](https://facebook.com/freelancer.maruf.77)
 - **Email:** [your-email@example.com](mailto:mdm326040@gmail.com)
 
