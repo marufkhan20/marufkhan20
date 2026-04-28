@@ -1,25 +1,51 @@
-<h1 align="center">Hi 👋, I'm Maruf</h1>
-<h3 align="center">MERN Stack Developer.</h3>
+# Hi 👋, I'm Rashedul Islam Maruf
+### Senior Full-Stack Engineer | SaaS Architect | MERN & Next.js Expert
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marufkhan20&label=Profile%20views&color=0e75b6&style=flat" alt="marufkhan20" /> </p>
+I am a results-driven **Full-Stack Developer** with over **5 years of experience** architecting scalable web applications for international clients. My focus is on building high-performance, AI-integrated SaaS products that solve real-world business problems.
 
-- 🔭 I’m currently working on **PioHost Project**
+---
 
-- 🌱 I’m currently learning **React JS**
+### 🚀 Professional Snapshot
+- 🔭 **Current Focus:** Leading the development of **VoiceOps**, a scalable B2B SaaS platform.
+- ⚡ **Expertise:** Specialized in the **MERN Stack**, **Next.js**, and **Cloud Infrastructure (AWS)**.
+- 🛠️ **Proven Track Record:** Delivered production-level systems like **Playver.ca** (Event Management) and **VibeHQ.studio** (CMS Integration).
+- 🌱 **2026 Learning Path:** Deep-diving into **Agentic AI**, **System Design**, and **AWS DevOps** to build the next generation of SaaS.
 
-- 💬 Ask me about **react js, node js**
+---
 
-- 📫 How to reach me **https://facebook.com/freelancer.maruf.77**
-- 📫 My personal portfolio **https://md-maruf.herokuapp.com/**
+### 🛠️ Languages & Tools
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/freelancer.maruf.77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="freelancer.maruf.77" height="30" width="40" /></a>
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) |
+
+---
+
+### 📈 GitHub Ecosystem
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marufkhan20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Maruf's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufkhan20&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marufkhan20&show_icons=true&locale=en&layout=compact" alt="marufkhan20" /></p>
+### 🌟 Featured Projects
+- **[Playver.ca](https://playver.ca):** A production-level event management system built with Next.js for Canadian clients.
+- **[GoCart](https://gocart-ecom.vercel.app):** A high-performance multi-vendor e-commerce architecture.
+- **[Frove Folder](https://github.com/marufkhan20/frove-folder):** A Chrome Extension for organizing Gemini AI chats—improving productivity for thousands.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marufkhan20&" alt="marufkhan20" /></p>
+---
+
+### 📫 Connect with Me
+- **Portfolio:** [maruf-dev.vercel.app](https://maruf-dev.vercel.app)
+- **LinkedIn:** [linkedin.com/in/rashedul-islam-maruf](https://linkedin.com/in/your-linkedin-username) *(Update this link!)*
+- **Facebook:** [freelancer.maruf.77](https://facebook.com/freelancer.maruf.77)
+- **Email:** [your-email@example.com](mailto:mdm326040@gmail.com)
+
+<p align="left">
+  <a href="https://fb.com/freelancer.maruf.77" target="blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
