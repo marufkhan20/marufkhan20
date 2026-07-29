@@ -1,4 +1,4 @@
-# Hi 👋, I'm Rashedul Islam Maruf
+# Hi 👋, I'm Rashedul Islam
 ### Senior Full-Stack Engineer | SaaS Architect | MERN & Next.js Expert
 
 I am a results-driven **Full-Stack Developer** with over **5 years of experience** architecting scalable web applications for international clients. My focus is on building high-performance, AI-integrated SaaS products that solve real-world business problems.
